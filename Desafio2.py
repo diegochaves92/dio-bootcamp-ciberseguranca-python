@@ -11,7 +11,7 @@ def descrever_pratica(pratica):
     elif pratica == "Firewall":
         return  "Controle de trafego de rede"
     
-    elif pratica == "Antivírus":
+    elif pratica == "Antivirus":
         return "Deteccao e remocao de softwares maliciosos"
 
 print(descrever_pratica(entrada))
